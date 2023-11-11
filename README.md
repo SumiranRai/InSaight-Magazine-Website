@@ -1,7 +1,9 @@
 # Insaight-Magazine-Website
-I did this project just for the sake of learning javascript, html and css.
-Various files including css, scss and js were not hard coded by me.
-This things already exists on the internet.
-Made this repository just for the sake of learning Git HUB.
-Thank You!
+Started as a fun project to build a website for my department "Insaight" in my college.
+Insaight is a magazine making and publishing department.
+I have used html, css and javascript to build the website.
+Also thank you everyone for providing me wonderful ideas that I could implement in the website.
+
+Thank you.
+
 Have a nice day.
