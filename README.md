@@ -1,6 +1,6 @@
-# Insaight-Magazine-Website
+# InSaight-Magazine-Website
 Started as a fun project to build a website for my department "Insaight" in my college.
-Insaight is the magazine making and publishing department of our campus.
+InSaight is the magazine making and publishing department of our campus.
 We publish sketches, poems, essays, articles, invitations, notices, flyers, covershots, photos of ongoing events and much more
 which are contributed to us by our dear student brothers and the campus faculty.
 
